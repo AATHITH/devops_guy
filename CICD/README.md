@@ -25,7 +25,7 @@ What is Continuous Deployment?
 ------------------------------
 Delivering software to production in an automated method.
 
-![alt text](CICD/CICDCD.jpg)
+![alt text](CICDCD.jpg)
 
 Why CI/CD?
 ----------
