@@ -2,14 +2,14 @@ Pre-requisites:
 ---------------	
 Understanding of Centralised Code Repositories(Gitlab, Github, Bitbucket, etc), Version control system(VCS), Source Control Management(SCM).
 
-What were they doing before CI?
+What were they doing before CI/CD?
 -------------------------------
 1. GitLab code commit,
 2. integrate,
 3. pull the committed code,
 4. build and
 5. verify in the local system.
-6. Deliver the software to STG/Testing.
+6. Deploy to STG/Testing.
 7. Manual Testing.
 8. Deployment in Production
 
