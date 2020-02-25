@@ -42,5 +42,5 @@ CI/CD           : Jenkins, Teamcity, TravisCI, CircleCI, Bamboo, GoCD, etc.
 
 Reference Links:
 ----------------
-[https://azure.microsoft.com/en-in/overview/what-is-devops/#practices] <br>
-[https://www.plutora.com/blog/understanding-ci-cd-pipeline]
+[Microsoft's what is devops](https://azure.microsoft.com/en-in/overview/what-is-devops/#practices) <br>
+[Plutora's understanding ci/cd pipeline](https://www.plutora.com/blog/understanding-ci-cd-pipeline)
