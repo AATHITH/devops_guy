@@ -1,7 +1,6 @@
 Pre-requisites:
 ---------------	
-1. Understanding of Central Code Repos(Gitlab, Github, Bitbucket, etc).
-2. Version control system(VCS) or Source Control Management(SCM).
+Understanding of Centralised Code Repositories(Gitlab, Github, Bitbucket, etc), Version control system(VCS), Source Control Management(SCM).
 
 What were they doing before CI?
 -------------------------------
