@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
-title: [Welcome to AATHITH's Work Blog]
-description: [I wrote this blog for my self-reference. It may be helpful for you to get an idea on the below topics]
+title: [Intro to Prometheus]
+description: [This page will give you an intro on what Prometheus is, How to deploy it in K8's cluster and Visualising the data using Grafana]
