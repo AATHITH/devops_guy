@@ -36,7 +36,7 @@ Why CI/CD?
 
 CI/CD pipeline:
 ---------------
-![CICD pipeline](CICD/cicd-pipeline.png)
+![CICD pipeline](cicd-pipeline.png)
 
 What tools should I use?
 ------------------------
