@@ -34,14 +34,13 @@ Why CI/CD?
 3. CI/CD also makes the process of deploying new code quicker and less risky. 
 4. Deployments then happen more frequently and in smaller increments, helping teams become more agile, more productive and more confident in their running code.
 
-CI/CD pipeline:
----------------
 ![CICD pipeline](cicd-pipeline.png)
 
 What tools should I use?
 ------------------------
 Version Control : Gitlab, Github, Bitbucket,etc.
 CI/CD           : Jenkins, Teamcity, TravisCI, CircleCI, Bamboo, GoCD, etc.
+Deployment      : Octopus Deploy
 
 Reference Links:
 ----------------
