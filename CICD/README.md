@@ -38,8 +38,8 @@ Why CI/CD?
 
 What tools should I use?
 ------------------------
-Version Control : Gitlab, Github, Bitbucket,etc.
-CI/CD           : Jenkins, Teamcity, TravisCI, CircleCI, Bamboo, GoCD, etc.
+Version Control : Gitlab, Github, Bitbucket,etc.<br>
+CI/CD           : Jenkins, Teamcity, TravisCI, CircleCI, Bamboo, GoCD, etc.<br>
 Deployment      : Octopus Deploy
 
 Reference Links:
