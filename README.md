@@ -5,4 +5,4 @@ Choose a Topics:
 
 [Intro to Prometheus](prometheus/README.md)<br>
 
-[Intro to DevOps](prometheus/README.md)
+[Intro to DevOps](DevOps/README.md)
