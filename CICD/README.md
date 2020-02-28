@@ -1,6 +1,7 @@
 Pre-requisites:
 ---------------	
-Understanding of Centralised Code Repositories(Gitlab, Github, Bitbucket, etc), Version control system(VCS), Source Control Management(SCM).
+1. Build Automation(Maven, Gradel, Ant, etc)
+2. Understanding of Centralised Code Repositories(Gitlab, Github, Bitbucket, etc)/Version control system(VCS)/Source Control Management(SCM).
 
 What were they doing before CI/CD?
 -------------------------------
@@ -29,7 +30,7 @@ Delivering software to production in an automated method.
 
 Why CI/CD?
 ----------
-1. CI/CD includes the full automation of all steps between code commit to production deployment.
+1. CI/CD includes the full automation of all steps between code commit to production deployment, thus reducing time and repeatable human works.
 2. Implementing CI/CD allows teams to focus on building code and removes the overhead and potential human error in manual, mundane steps. 
 3. CI/CD also makes the process of deploying new code quicker and less risky. 
 4. Deployments then happen more frequently and in smaller increments, helping teams become more agile, more productive and more confident in their running code.
@@ -38,9 +39,10 @@ Why CI/CD?
 
 What tools should I use?
 ------------------------
-Version Control : Gitlab, Github, Bitbucket,etc.<br>
-CI/CD           : Jenkins, Teamcity, TravisCI, CircleCI, Bamboo, GoCD, etc.<br>
-Deployment      : Octopus Deploy
+Build Automation : Maven, Gradel, Ant, etc.<br>
+Version Control  : Gitlab, Github, Bitbucket,etc.<br>
+CI/CD            : Jenkins, Teamcity, TravisCI, CircleCI, Bamboo, GoCD, etc.<br>
+Deployment       : Octopus Deploy
 
 Reference Links:
 ----------------
