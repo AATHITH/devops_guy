@@ -46,9 +46,15 @@ Version Control  : Gitlab, Github, Bitbucket,etc.<br>
 CI/CD            : Jenkins, Teamcity, TravisCI, CircleCI, Bamboo, GoCD, etc.<br>
 Deployment       : Octopus Deploy
 
+CI/CD Check List:
+-----------------
+1. Build process should be under ten minutes.
+2. Notifying about Build results(success/failed/stuck).
+3. 
+
 Reference Links:
 ----------------
 [Microsoft's what is devops](https://azure.microsoft.com/en-in/overview/what-is-devops/#practices) <br>
 [Plutora's understanding ci/cd pipeline](https://www.plutora.com/blog/understanding-ci-cd-pipeline) <br>
-
+[Agilealliance's Automated build](https://www.agilealliance.org/glossary/automated-build/)
 (This page is created by AATHITH(myself) for my self-reference only.)
