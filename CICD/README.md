@@ -56,5 +56,5 @@ Reference Links:
 ----------------
 [Microsoft's what is devops](https://azure.microsoft.com/en-in/overview/what-is-devops/#practices) <br>
 [Plutora's understanding ci/cd pipeline](https://www.plutora.com/blog/understanding-ci-cd-pipeline) <br>
-[Agilealliance's Automated build](https://www.agilealliance.org/glossary/automated-build/)
+[Agilealliance's Automated build](https://www.agilealliance.org/glossary/automated-build/)<br>
 (This page is created by AATHITH(myself) for my self-reference only.)
