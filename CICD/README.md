@@ -46,15 +46,22 @@ Version Control  : Gitlab, Github, Bitbucket,etc.<br>
 CI/CD            : Jenkins, Teamcity, TravisCI, CircleCI, Bamboo, GoCD, etc.<br>
 Deployment       : Octopus Deploy
 
-CI/CD Check List:
------------------
+CI/CD Good Practice:
+--------------------
 1. Build process should be under ten minutes.
 2. Notifying about Build results(success/failed/stuck).
-3. 
+3. Fixing broken builds before adding more code.
+4. Use simple branching structures that can be easy to sort through to find the link needed.
+5. Don't Use “hotfixes” to release branches.
+6. Determine the failure cause and location before shutting off failing tests.
+7. Continuously testing code as soon as it is entered into the shared repository.
+8. Manual testing and manual builds can be used but it will seriously limit the number of bugs caught.
+9. Writing meaningful tests that can be run against every build to know if anything from the new code affected previous builds.
 
 Reference Links:
 ----------------
 [Microsoft's what is devops](https://azure.microsoft.com/en-in/overview/what-is-devops/#practices) <br>
 [Plutora's understanding ci/cd pipeline](https://www.plutora.com/blog/understanding-ci-cd-pipeline) <br>
 [Agilealliance's Automated build](https://www.agilealliance.org/glossary/automated-build/)<br>
+[katalon's ci cd cheat sheet](https://www.katalon.com/resources-center/blog/ci-cd-cheat-sheet/)<br>
 (This page is created by AATHITH(myself) for my self-reference only.)
