@@ -71,12 +71,17 @@ I have not tried, but it is possible this is enough
 ### Reference links:
 **standalone:**
 [redis sentinel high availability(medium)](https://medium.com/@amila922/redis-sentinel-high-availability-everything-you-need-to-know-from-dev-to-prod-complete-guide-deb198e70ea6)
+
 [how to install and use redis(digitalocean)](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-redis)
+
 [how to install and use redis(pivotal)](https://community.pivotal.io/s/article/How-to-install-and-use-Redis-on-Linux)
+
 **master-slave:**
 [Setup Redis master and slave(pivotal)](https://community.pivotal.io/s/article/How-to-setup-Redis-master-and-slave-replication)
+
 **sentinel:**
 [master slave replication and redis sentinel(RTFM)](https://rtfm.co.ua/en/redis-replication-part-2-master-slave-replication-and-redis-sentinel/)
+
 
 (This page is created by AATHITH(myself) for my self-reference only.)
 
