@@ -6,3 +6,5 @@ Choose a Topics:
 [Intro to Prometheus](prometheus/README.md)<br>
 
 [Intro to DevOps](DevOps/README.md)
+
+[Install and configure REDIS](redis/README.md)
