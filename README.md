@@ -10,3 +10,5 @@ Choose a Topics:
 [Install and configure REDIS](redis/README.md)
 
 [Intstall JAVA 8 in Ubuntu 18.04](java/README.md)
+
+[Intstall Gradle in Ubuntu 18.04](gradle/README.md)
