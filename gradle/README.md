@@ -18,6 +18,7 @@ aathit@workstation:~$ wget https://services.gradle.org/distributions/gradle-5.2.
 **Step 5: Set GRADLE_HOME & PATH**
 
     aathit@workstation:~$ sudo nano /etc/profile.d/gradle.sh
+    aathit@workstation:~$ sudo chmod +x /etc/profile.d/gradle.sh
     > export GRADLE_HOME=/opt/gradle/gradle-5.2.1
     > export PATH=${GRADLE_HOME}/bin:${PATH}
     aathit@workstation:~$ source /etc/profile.d/gradle.sh
