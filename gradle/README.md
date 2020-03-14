@@ -42,7 +42,7 @@ aathit@workstation:~$ wget https://services.gradle.org/distributions/gradle-5.2.
     OS:           Linux 4.15.0-66-generic amd64
 
 ### Reference link:
-https://www.vultr.com/docs/how-to-install-gradle-on-ubuntu-16-10
-
+[https://www.vultr.com/docs/how-to-install-gradle-on-ubuntu-16-10](https://www.vultr.com/docs/how-to-install-gradle-on-ubuntu-16-10)
+[https://linuxize.com/post/how-to-install-gradle-on-ubuntu-18-04/](https://linuxize.com/post/how-to-install-gradle-on-ubuntu-18-04/)
 (This page is created by AATHITH(myself) for my self-reference only.)
 
