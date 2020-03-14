@@ -7,9 +7,9 @@ aathit@workstation:~$ sudo apt-get -y upgrade
 **Step 2:** [Install JDK](https://aathith.github.io/blog/java/)
 
 **Step 3: Download Gradle**
-
-`aathit@workstation:~$ wget https://services.gradle.org/distributions/gradle-5.2.1-bin.zip`
-
+```
+aathit@workstation:~$ wget https://services.gradle.org/distributions/gradle-5.2.1-bin.zip
+```
 **Step 4: Install Gradle**
 
     aathit@workstation:~$ sudo mkdir /opt/gradle
