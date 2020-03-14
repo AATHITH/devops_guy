@@ -9,4 +9,3 @@ Choose a Topics:
 
 [Install and configure REDIS](redis/README.md)
 
-![views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=)
