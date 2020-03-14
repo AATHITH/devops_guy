@@ -9,3 +9,4 @@ Choose a Topics:
 
 [Install and configure REDIS](redis/README.md)
 
+[Intstall JAVA 8 in Ubuntu 18.04](DevOps/README.md)
