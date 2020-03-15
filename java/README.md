@@ -7,8 +7,9 @@ sudo apt-get update
 sudo apt-get install openjdk-8-jdk
 java -version
 ```
-##Change default java version:
-```sudo update-alternatives --config java
+## Change default java version:
+```
+sudo update-alternatives --config java
 There are 3 choices for the alternative java (providing /usr/bin/java).
 
   Selection    Path                                            Priority   Status
@@ -22,9 +23,8 @@ Press <enter> to keep the current choice[*], or type selection number:
 Enter the number from `Selection` column and press `Enter`.
 
 ### Reference links:
-[https://linuxize.com/post/install-java-on-ubuntu-18-04/](https://linuxize.com/post/install-java-on-ubuntu-18-04/)
-[https://www.geofis.org/en/install/install-on-linux/install-openjdk-8-on-ubuntu-trusty/](
-https://www.geofis.org/en/install/install-on-linux/install-openjdk-8-on-ubuntu-trusty/)
+[https://linuxize.com/post/install-java-on-ubuntu-18-04/](https://linuxize.com/post/install-java-on-ubuntu-18-04/)<br>
+[https://www.geofis.org/en/install/install-on-linux/install-openjdk-8-on-ubuntu-trusty/](https://www.geofis.org/en/install/install-on-linux/install-openjdk-8-on-ubuntu-trusty/)
 
 (This page is created by AATHITH(myself) for my self-reference only.)
 
