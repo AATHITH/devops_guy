@@ -2,14 +2,14 @@
 This page will show you **How to install JAVA in UBUNTU 18.04**
 ## Run these Commands:
 ```
-sudo add-apt-repository ppa:openjdk-r/ppa
-sudo apt-get update
-sudo apt-get install openjdk-8-jdk
-java -version
+aathit@workstation:~$ sudo add-apt-repository ppa:openjdk-r/ppa
+aathit@workstation:~$ sudo apt-get update
+aathit@workstation:~$ sudo apt-get install openjdk-8-jdk
+aathit@workstation:~$ java -version
 ```
 ## Change default java version:
 ```
-sudo update-alternatives --config java
+aathit@workstation:~$ sudo update-alternatives --config java
 There are 3 choices for the alternative java (providing /usr/bin/java).
 
   Selection    Path                                            Priority   Status
