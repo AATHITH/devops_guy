@@ -1,31 +1,31 @@
 # How to install Gradle in Ubuntu 18.04
 **Step 1: Update the System**
 ```
-aathit@workstation:~$ sudo apt-get update
-aathit@workstation:~$ sudo apt-get -y upgrade
+aathith@workstation:~$ sudo apt-get update
+aathith@workstation:~$ sudo apt-get -y upgrade
 ```
 **Step 2:** [Install JDK](https://aathith.github.io/blog/java/)
 
 **Step 3: Download Gradle**
 ```
-aathit@workstation:~$ wget https://services.gradle.org/distributions/gradle-5.2.1-bin.zip
+aathith@workstation:~$ wget https://services.gradle.org/distributions/gradle-5.2.1-bin.zip
 ```
 **Step 4: Install Gradle**
 
-    aathit@workstation:~$ sudo mkdir /opt/gradle
-    aathit@workstation:~$ sudo unzip -d /opt/gradle gradle-5.2.1-bin.zip
+    aathith@workstation:~$ sudo mkdir /opt/gradle
+    aathith@workstation:~$ sudo unzip -d /opt/gradle gradle-5.2.1-bin.zip
     
 **Step 5: Set GRADLE_HOME & PATH**
 
-    aathit@workstation:~$ sudo nano /etc/profile.d/gradle.sh
+    aathith@workstation:~$ sudo nano /etc/profile.d/gradle.sh
     > export GRADLE_HOME=/opt/gradle/gradle-5.2.1
     > export PATH=${GRADLE_HOME}/bin:${PATH}
-    aathit@workstation:~$ sudo chmod +x /etc/profile.d/gradle.sh
-    aathit@workstation:~$ source /etc/profile.d/gradle.sh
+    aathith@workstation:~$ sudo chmod +x /etc/profile.d/gradle.sh
+    aathithh@workstation:~$ source /etc/profile.d/gradle.sh
 
 **Step 6: Check Gradle Version**
 
-    aathit@workstation:~$ gradle -v
+    aathith@workstation:~$ gradle -v
     
     ------------------------------------------------------------
     Gradle 5.2.1
