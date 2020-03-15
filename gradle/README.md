@@ -46,3 +46,5 @@ aathith@workstation:~$ wget https://services.gradle.org/distributions/gradle-5.2
 [https://linuxize.com/post/how-to-install-gradle-on-ubuntu-18-04/](https://linuxize.com/post/how-to-install-gradle-on-ubuntu-18-04/)
 (This page is created by AATHITH(myself) for my self-reference only.)
 
+
+ ←[home](README.md)
