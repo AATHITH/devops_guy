@@ -47,4 +47,4 @@ aathith@workstation:~$ wget https://services.gradle.org/distributions/gradle-5.2
 (This page is created by AATHITH(myself) for my self-reference only.)
 
 
- ←[home](README.md)
+ [←home](blog/README.md)
