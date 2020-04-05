@@ -78,7 +78,7 @@ type: ClusterIp --> type: NodePort
 
     kubectl -n kubernetes-dashboard describe secret $(kubectl -n kubernetes-dashboard get secret | grep admin-user | awk '{print $1}')
 
-Now copy the token and paste it into  `Enter token`  field on login screen.https://ip:nodeport/#/login
+Now copy the token and paste it into  `Enter token`  field on [login screen.](https://ip:nodeport/#/login)
 
 ![login](/kubernetes/dashboard/login.PNG)
 
