@@ -1,6 +1,8 @@
 Choose a Topics:
 ---------------------
 
+[Kubernetes related topics](/kubernetes/README.md) <br>
+
 [Intro to CI/CD](CICD/README.md) <br>
 
 [Intro to Prometheus](prometheus/README.md)<br>
