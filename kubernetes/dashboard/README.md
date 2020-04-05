@@ -78,11 +78,12 @@ type: ClusterIp --> type: NodePort
 
     kubectl -n kubernetes-dashboard describe secret $(kubectl -n kubernetes-dashboard get secret | grep admin-user | awk '{print $1}')
 
-Now copy the token and paste it into  `Enter token`  field on [login screen.](https://ip:nodeport/#/login)
-![login](dashboard/login.PNG)
+Now copy the token and paste it into  `Enter token`  field on login screen.https://ip:nodeport/#/login
+
+![login](/kubernetes/dashboard/login.PNG)
 
 Thats it. You have now successfully created a Dashboard for your Kubernetes cluster with a Bearer token.
-![ui-dashboard.png](dashboard/ui-dashboard.png)
+![ui-dashboard.png](/kubernetes/dashboard/ui-dashboard.png)
 
 #### Reference links:
 [https://medium.com/@sondnpt00343/deploying-a-publicly-accessible-kubernetes-dashboard-v2-0-0-betax-8e39680d4067](https://medium.com/@sondnpt00343/deploying-a-publicly-accessible-kubernetes-dashboard-v2-0-0-betax-8e39680d4067)
