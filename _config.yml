@@ -3,3 +3,5 @@ github:
   is_project_page: false
 title: [AATHITH's BETA ME]
 description: [This blog is all about getting started]
+
+theme: jekyll-theme-dinky
