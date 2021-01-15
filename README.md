@@ -1,6 +1,3 @@
-[![HitCount](http://hits.dwyl.com/aathith/AATHITH/devops_guy.svg)](http://hits.dwyl.com/aathith/AATHITH/devops_guy)
-
-
 Choose a Topics:
 ----------------
 
