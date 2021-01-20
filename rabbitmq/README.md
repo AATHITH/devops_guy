@@ -8,7 +8,7 @@ sudo yum install epel-release socat -y
 ## erlang download
 
 `rpm --import https://packages.erlang-solutions.com/rpm/erlang_solutions.asc`<br>
-/etc/yum.repos.d/erlang.repo
+`nano /etc/yum.repos.d/erlang.repo`
 ```
 [erlang-solutions]
 name=CentOS $releasever - $basearch - Erlang Solutions
@@ -21,6 +21,8 @@ enabled=1
 
 `yum install erlang-22.1.8`
 ```
+check erlang version:<br>
+```erl -eval '{ok, Version} = file:read_file(filename:join([code:root_dir(), "releases", erlang:system_info(otp_release), "OTP_VERSION"])), io:fwrite(Version), halt().' -noshell`<br>```
 reference: [erlang official website](https://www.erlang-solutions.com/resources/download.html)
 ## install rmq
 
