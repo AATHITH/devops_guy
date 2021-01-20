@@ -22,7 +22,7 @@ enabled=1
 `yum install erlang-22.1.8`
 ```
 check erlang version:<br>
-```erl -eval '{ok, Version} = file:read_file(filename:join([code:root_dir(), "releases", erlang:system_info(otp_release), "OTP_VERSION"])), io:fwrite(Version), halt().' -noshell`<br>```
+```erl -eval '{ok, Version} = file:read_file(filename:join([code:root_dir(), "releases", erlang:system_info(otp_release), "OTP_VERSION"])), io:fwrite(Version), halt().' -noshell```<br>
 reference: [erlang official website](https://www.erlang-solutions.com/resources/download.html)
 ## install rmq
 
