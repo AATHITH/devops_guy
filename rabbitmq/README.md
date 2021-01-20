@@ -7,7 +7,7 @@ sudo yum install epel-release socat -y
 ```
 ## erlang download
 
-`rpm --import https://packages.erlang-solutions.com/rpm/erlang_solutions.asc`
+`rpm --import https://packages.erlang-solutions.com/rpm/erlang_solutions.asc`<br>
 /etc/yum.repos.d/erlang.repo
 ```
 [erlang-solutions]
@@ -29,8 +29,9 @@ reference: [erlang official website](https://www.erlang-solutions.com/resources/
 sudo rpm --import https://github.com/rabbitmq/signing-keys/releases/download/2.0/rabbitmq-release-signing-key.asc
 wget https://github.com/rabbitmq/rabbitmq-server/releases/download/v3.7.17/rabbitmq-server-3.7.17-1.el7.noarch.rpm
 sudo yum install rabbitmq-server-3.7.17-1.el7.noarch.rpm
-download reference:[rmq official website](https://www.rabbitmq.com/download.html)
 ```
+download reference:[rmq official website](https://www.rabbitmq.com/download.html)
+
 ## Start rmq
 ```
 sudo systemctl start rabbitmq-server
