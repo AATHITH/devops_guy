@@ -23,4 +23,4 @@ Choose a Topics:
 
 
 
-[NewsLetter](https://aathith.github.io/newsletter)
+[NewsLetter](https://www.getrevue.co/profile/devops__guy)
