@@ -18,3 +18,5 @@ Choose a Topics:
 [Intstall Gradle in Ubuntu 18.04](gradle/README.md)
 
 [DigitalOcean NAT instace with only private ip](digitalocean/README.md)
+
+[Other Than Tech](Other_Than_Tech/Learned_from_Atomic_Habits.md)
