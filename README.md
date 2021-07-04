@@ -19,4 +19,4 @@ Choose a Topics:
 
 [DigitalOcean NAT instace with only private ip](digitalocean/README.md)
 
-[Other Than Tech](Other_Than_Tech/Learned_from_Atomic_Habits.md)
+[Other Than Tech](Other_than_tech/Learned_from_Atomic_Habits.md)
