@@ -4,5 +4,3 @@ kubectl apply -f https://raw.githubusercontent.com/AATHITH/devops_guy/master/kub
 kubectl create serviceaccount dashboard -n kubernetes-dashboard
 echo $(kubectl get secret $(kubectl get serviceaccount dashboard -o jsonpath="{.secrets[0].name}" -n kubernetes-dashboard) -o jsonpath="{.data.token}" -n kubernetes-dashboard | base64 --decode)
 kubectl create clusterrolebinding dashboard-admin -n kubernetes-dashboard  --clusterrole=cluster-admin  --serviceaccount=default:dashboard
-
-echo "Now go to https://kuberntes-master-node-ip:NodePort/#/login"
