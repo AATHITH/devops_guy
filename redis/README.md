@@ -1,14 +1,19 @@
 # REDIS
 This page will walk you through 
-1. How to install,  run/stop/restart and uninstall Redis Server
-2. How to configure Redis with Sentinel
-3. How to configure Redis for High availability
+1. How to install,
+2. Run/Stop/Restart
+3. How to configure Redis with Sentinel
+4. How to run it with systemd
+5. How to upgrade to latest version
+6. Uninstall Redis Server
 
-## Run these Commands:
+## 1. How to install:
+<details>
+<summary>Ubuntu</summary>
+<br>
 ```
 sudo apt-get update 
-sudo apt-get install build-essential
-sudo apt-get install tcl8.5
+sudo apt-get install build-essential tcl8.5
 wget http://download.redis.io/releases/redis-stable.tar.gz
 tar xzvf redis-stable.tar.gz
 cd redis-stable
@@ -19,7 +24,8 @@ cd utils
 sudo ./install_server.sh
 sudo service redis_6379 start
 ```
-### Start|Stop|Restart Redis:
+</details>
+### 2. Start|Stop|Restart Redis:
 You can start/stop/restart Redis in multiple ways,
 |ACTION|COMMAND|
 |--|--|
@@ -34,7 +40,7 @@ You can start/stop/restart Redis in multiple ways,
 
 **Run Redis on different port:** `redis-server --port 6380`
 
-**Run sentinel as service:** This [link](https://gist.github.com/DeviaVir/5431730) will help you run Sentinel as a service 
+**3. Run sentinel as service:** This [link](https://gist.github.com/DeviaVir/5431730) will help you run Sentinel as a service 
 
 **Passing arguments via the command line:**
 `redis-server --port 6380 --slaveof 127.0.0.1 6379`
@@ -84,4 +90,3 @@ I have not tried, but it is possible this is enough
 
 
 (This page is created by AATHITH(myself) for my self-reference only.)
-
