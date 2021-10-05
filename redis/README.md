@@ -57,7 +57,34 @@ You can start/stop/restart Redis in multiple ways,
 You cannot have bind 127.0.0.1 123.123.123.123 but bind 123.123.123.123 127.0.0.1 in your sentinel.conf.
 sentinel auth-pass redis-01 password 
 
-**uninstall redis:**
+## How to upgrade to latest version
+(this example is for upgrading redis 5.0.8 to redis 6.2.6 on Centos7)
+#### To backup existing redis instance:
+```
+cd /usr/bin/
+mv redis-benchmark redis-benchmark_v5 mv redis-check-aof redis-check-aof_v5 mv redis-check-rdb redis-check-rdb_v5 mv redis-cli redis-cli_v5 mv redis-sentinel redis-sentinel_v5 mv redis-server redis-server_v5
+ln -sfn redis-server_v5 redis-check-aof_v5 ln -sfn redis-server_v5 redis-check-rdb_v5 ln -sfn redis-server_v5 redis-sentinel_v5
+```
+**INSTALL WITH SOURCE:**
+To Install the updated Redis:
+```
+yum install systemd-devel
+wget http://download.redis.io/releases/redis-6.2.6.tar.gz
+tar xzf redis-6.2.6.tar.gz
+cd redis-6.2.6
+make BUILD_WITH_SYSTEMD=yes USE_SYSTEMD=yes   #to make redis work with systemd
+sudo cp /home/deploy/redis-6.2.6/src/{redis-cli,redis-check-rdb,redis-server,redis-sentinel,redis-check-aof,redis-benchmark,redis-trib.rb} /usr/bin/
+systemctl restart redis
+redis-server --version
+```
+**WITH YUM:**  	https://computingforgeeks.com/how-to-install-latest-redis-on-centos-7/
+```
+sudo yum -y install http://rpms.remirepo.net/enterprise/remi-release-7.rpm
+sudo yum --enablerepo=remi list redis
+sudo yum --enablerepo=remi install redis
+redis-cli -p 26379 info
+```
+## uninstall redis:
 
     sudo -i
     service redis-server stop
