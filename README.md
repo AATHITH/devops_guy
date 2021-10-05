@@ -9,6 +9,8 @@ Choose a Topics:
 
 [Intro to DevOps](DevOps/README.md)
 
+[Devops Resources](DevOps/Resources.md)
+
 [Install and configure REDIS](redis/README.md)
 
 [Syncing Mongodb to Elasticsearch for quick searches](mongodb/README.md)
