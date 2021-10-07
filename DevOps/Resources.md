@@ -24,6 +24,9 @@ For AWS:<br>
 https://www.udemy.com/user/stephane-maarek/
 
 
+### Kubernetes
+[kasten free course & labs](https://learning.kasten.io/)
+
 ### Learn-by-Doing platforms with interactive playgrounds on(Linux/Container/Kubernetes/Clouds)
 
 [acloudguru](acloudguru.com)<br>
