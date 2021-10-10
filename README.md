@@ -1,15 +1,15 @@
 Choose a Topics:
 ----------------
 
-[Kubernetes related topics](/kubernetes/README.md) <br>
-
-[Intro to CI/CD](CICD/README.md) <br>
-
-[Intro to Prometheus](prometheus/README.md)<br>
+[Kubernetes related topics](/kubernetes/README.md)
 
 [Intro to DevOps](DevOps/README.md)
 
-[Devops Resources](DevOps/Resources.md)
+[Intro to CI/CD](CICD/README.md)
+
+[Devops Resources](DevOps/Resources/README.md)
+
+[Intro to Prometheus](prometheus/README.md)
 
 [Install and configure REDIS](redis/README.md)
 
@@ -22,6 +22,7 @@ Choose a Topics:
 [DigitalOcean NAT instace with only private ip](digitalocean/README.md)
 
 [Other Than Tech](Other_than_tech/Learned_from_Atomic_Habits.md)
+
 
 
 
