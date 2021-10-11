@@ -28,7 +28,8 @@ https://www.udemy.com/user/stephane-maarek/
 [Cgroups, namespaces, and beyond: what are containers](https://www.youtube.com/watch?v=sK5i-N34im8&t=1707s)<br>
 [Docker, FROM scratch - Aaron Powell](https://www.youtube.com/watch?v=i7yoXqlg48M)<br>
 [Deepdive Containers - Kernel Sources and nsenter](https://www.youtube.com/watch?v=sHp0Q3rvamk)<br>
-
+[Introduction to Docker and containers-slide](https://us.pycon.org/2016/site_media/media/tutorial_handouts/DockerSlides.pdf)<br>
+[Introduction to Docker and containers-video](https://www.youtube.com/watch?v=ZVaRK10HBjo)<br>
 
 ### Kubernetes
 [kasten free course & labs](https://learning.kasten.io/)<br>
