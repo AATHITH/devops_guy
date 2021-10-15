@@ -8,6 +8,7 @@ https://azure.microsoft.com/en-us/overview/devops-tutorial/<br>
 ### Youtube
 **videos:**<br>
 [Why DevOps](https://www.youtube.com/watch?v=cWpPmO6l064)<br>
+[DevOps Engineering Course for Beginners- Freecodecamp](https://www.youtube.com/watch?v=j5Zsa_eOXeY&list=TLPQMTUxMDIwMjFwqdu_Z72qFw&index=12)<br>
 [Tips, Tricks, & How to: Become an Elite DevOps Organisation](https://www.youtube.com/watch?v=y0M9Z_zSmPo)
 [DevOps Career Roadmap](https://www.youtube.com/watch?v=KrVezx3E8OQ)<br>
 [DevOps Prerequisites Course - Getting started with DevOps by mumshad mannambeth](https://www.youtube.com/watch?v=Wvf0mBNGjXY)<br>
@@ -32,7 +33,6 @@ https://www.udemy.com/user/stephane-maarek/
 [Shell Practice](https://cmdchallenge.com/)<br>
 
 ### Git
-[Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git- FreeCodeCamp](https://www.youtube.com/watch?v=Uszj_k0DGsg&list=TLPQMTUxMDIwMjGmyZ9F348HGw&index=2)
 
 ### Docker
 [This Is How Docker Works, The Fun Way!](https://www.youtube.com/watch?v=-NzfOhSAZpA)<br>
