@@ -28,8 +28,11 @@ https://www.udemy.com/user/stephane-maarek/
 
 ### Linux
 
-[Learnshell](https://www.learnshell.org/)
+[Learnshell](https://www.learnshell.org/)<br>
 [Shell Practice](https://cmdchallenge.com/)<br>
+
+### Git
+[Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git- FreeCodeCamp](https://www.youtube.com/watch?v=Uszj_k0DGsg&list=TLPQMTUxMDIwMjGmyZ9F348HGw&index=2)
 
 ### Docker
 [This Is How Docker Works, The Fun Way!](https://www.youtube.com/watch?v=-NzfOhSAZpA)<br>
