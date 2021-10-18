@@ -31,6 +31,7 @@ https://www.udemy.com/user/stephane-maarek/
 
 [Learnshell](https://www.learnshell.org/)<br>
 [Shell Practice](https://cmdchallenge.com/)<br>
+[Grep course](https://egghead.io/lessons/tools-search-the-contents-of-files-using-grep)<br>
 
 ### Git
 
