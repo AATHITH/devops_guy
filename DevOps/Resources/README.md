@@ -56,10 +56,11 @@ https://www.udemy.com/user/stephane-maarek/
 [Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)<br>
 [pwk-oscp](https://www.offensive-security.com/pwk-oscp/)<br>
 #### Practice sites:
-[Burp Suit pentesting](https://portswigger.net/web-security/getting-started)<br>
+[overthewire](https://overthewire.org/wargames/)
 [hackthebox](https://www.hackthebox.eu/)<br>
 [tryhackme](https://tryhackme.com/)
 [vulnhub](https://www.vulnhub.com/)<br>
+[Burp Suit pentesting](https://portswigger.net/web-security/getting-started)<br>
 #### Academy and course:
 [wehackpurple](https://wehackpurple.com/)(paid)<br>
 [Practical Ethical Hacking The Complete Course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
