@@ -36,6 +36,7 @@ https://www.udemy.com/user/stephane-maarek/
 ### Git
 
 ### Docker
+[Docker - Fun way](https://www.youtube.com/watch?v=-NzfOhSAZpA)
 [Container Networking is simple](https://iximiuz.com/en/posts/container-networking-is-simple/)<br>
 [This Is How Docker Works, The Fun Way!](https://www.youtube.com/watch?v=-NzfOhSAZpA)<br>
 [Cgroups, namespaces, and beyond: what are containers](https://www.youtube.com/watch?v=sK5i-N34im8&t=1707s)<br>
