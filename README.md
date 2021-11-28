@@ -1,19 +1,19 @@
 Choose a Topics:
 ----------------
 
-[Kubernetes related topics](/kubernetes/README.md)
+[Devops Resources](DevOps/Resources/README.md)
 
 [Intro to DevOps](DevOps/README.md)
 
 [Intro to CI/CD](CICD/README.md)
 
-[Devops Resources](DevOps/Resources/README.md)
+[Kubernetes related topics](/kubernetes/README.md)
 
 [Intro to Prometheus](prometheus/README.md)
 
 [Install and configure REDIS](redis/README.md)
 
-[Syncing Mongodb to Elasticsearch for quick searches](mongodb/README.md)
+[Syncing Mongodb to Elasticsearch with Monstache for quick searches](mongodb/README.md)
 
 [Install JAVA 8 in Ubuntu 18.04](java/README.md)
 
@@ -25,5 +25,4 @@ Choose a Topics:
 
 
 
-
-[NewsLetter](https://www.getrevue.co/profile/devops__guy)
+[ Sign-up for my NewsLetter](https://www.getrevue.co/profile/devops__guy)
