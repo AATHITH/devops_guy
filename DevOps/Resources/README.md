@@ -1,7 +1,8 @@
 # Devops Resources
-[Devops Research](https://www.devops-research.com/research.html)<br>
+[Devops Research by Google](https://www.devops-research.com/research.html)<br>
 
 ### Beginner-friendly
+Understand what Devops is:<br>
 https://www.atlassian.com/devops<br>
 https://azure.microsoft.com/en-us/overview/devops-tutorial/<br>
 
@@ -11,29 +12,34 @@ https://azure.microsoft.com/en-us/overview/devops-tutorial/<br>
 [DevOps Engineering Course for Beginners- Freecodecamp](https://www.youtube.com/watch?v=j5Zsa_eOXeY&list=TLPQMTUxMDIwMjFwqdu_Z72qFw&index=12)<br>
 [Tips, Tricks, & How to: Become an Elite DevOps Organisation](https://www.youtube.com/watch?v=y0M9Z_zSmPo)
 [DevOps Career Roadmap](https://www.youtube.com/watch?v=KrVezx3E8OQ)<br>
-[DevOps Prerequisites Course - Getting started with DevOps by mumshad mannambeth](https://www.youtube.com/watch?v=Wvf0mBNGjXY)<br>
+[DevOps Prerequisites Course - Getting started with DevOps by Mumshad Mannambeth](https://www.youtube.com/watch?v=Wvf0mBNGjXY)<br>
 [DevOps Course | Intellipaat](https://www.youtube.com/watch?v=YzwD02ImKY4)<br>
 
 **channels:**<br>
 [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)<br>
 [LetUsDevOps](https://www.youtube.com/user/wtfcricketmoments)<br>
-[linux basics](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)<br>
+[Linux basics](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)<br>
 [That DevOps Guy](https://www.youtube.com/user/Kamakazihoer)<br>
 
 ### Udemy
-For Docker, Kubernetes, Ansible, Terraform:<br>
-https://www.udemy.com/user/mumshad-mannambeth/
+#### For Docker and Kubernetes:
+https://www.udemy.com/user/mumshad-mannambeth/ (Ansible and Terraform as well)<br>
+https://www.udemy.com/course/just-enough-docker/<br>
+https://www.udemy.com/course/just-enough-kubernetes/<br>
 
-For AWS:<br>
+#### For AWS:
 https://www.udemy.com/user/stephane-maarek/
 
 ### Linux
 
 [Learnshell](https://www.learnshell.org/)<br>
-[Shell Practice](https://cmdchallenge.com/)<br>
+[Shell Practice challenges](https://cmdchallenge.com/)<br>
 [Grep course](https://egghead.io/lessons/tools-search-the-contents-of-files-using-grep)<br>
 
 ### Git
+[Learn common Git commands](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/git-basics)<br>
+[Learn Git by Playing Games](https://ohmygit.org/)<br>
+[Git workflow with a bot as your teammate](https://profy.dev/project/github-minesweeper)<br>
 
 ### Docker
 [Docker - Fun way](https://www.youtube.com/watch?v=-NzfOhSAZpA)
@@ -46,6 +52,8 @@ https://www.udemy.com/user/stephane-maarek/
 [Introduction to Docker and containers-video](https://www.youtube.com/watch?v=ZVaRK10HBjo)<br>
 
 ### Kubernetes
+[Official Docs](https://kubernetes.io/docs/home/)
+Learn to use the official Documents and don't shy away from using the example yaml files as a base for your yaml files.<br>
 [kasten free course & labs](https://learning.kasten.io/)<br>
 
 
@@ -64,10 +72,10 @@ https://www.udemy.com/user/stephane-maarek/
 [Burp Suit pentesting](https://portswigger.net/web-security/getting-started)<br>
 #### Academy and course:
 [wehackpurple](https://wehackpurple.com/)(paid)<br>
-[Practical Ethical Hacking The Complete Course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
+[Practical Ethical Hacking The Complete Course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)<br>
 
 ### Misc
-[Microservices](https://microservices.io/)<br> 
+[Microservices](https://microservices.io/)<br>
 
 ### Learn-by-Doing platforms with interactive playgrounds on(Linux/Container/Kubernetes/Clouds)
 
