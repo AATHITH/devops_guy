@@ -21,13 +21,7 @@ https://azure.microsoft.com/en-us/overview/devops-tutorial/<br>
 [Linux basics](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)<br>
 [That DevOps Guy](https://www.youtube.com/user/Kamakazihoer)<br>
 
-### Udemy
-#### For Docker and Kubernetes:
-https://www.udemy.com/user/mumshad-mannambeth/ (Ansible and Terraform as well)<br>
-https://www.udemy.com/course/just-enough-docker/<br>
-https://www.udemy.com/course/just-enough-kubernetes/<br>
-
-#### For AWS:
+#### Cloud :
 https://www.udemy.com/user/stephane-maarek/
 
 ### Linux
@@ -36,13 +30,19 @@ https://www.udemy.com/user/stephane-maarek/
 [Shell Practice challenges](https://cmdchallenge.com/)<br>
 [Grep course](https://egghead.io/lessons/tools-search-the-contents-of-files-using-grep)<br>
 
+### Networking
+[Network+ teaining course | Free](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)<br>
+[Compatia Network Cert | udemy](https://www.udemy.com/course/comptia-network-cert-n10-007-the-total-course/)<br>
+[SSH tunneling explained](https://goteleport.com/blog/ssh-tunneling-explained/)<br>
+
 ### Git
 [Learn common Git commands](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/git-basics)<br>
 [Learn Git by Playing Games](https://ohmygit.org/)<br>
 [Git workflow with a bot as your teammate](https://profy.dev/project/github-minesweeper)<br>
 
 ### Docker
-[Docker - Fun way](https://www.youtube.com/watch?v=-NzfOhSAZpA)
+[Docker - Fun way](https://www.youtube.com/watch?v=-NzfOhSAZpA)<br>
+[Container Learning Path](https://iximiuz.com/en/posts/container-learning-path/)<br>
 [Container Networking is simple](https://iximiuz.com/en/posts/container-networking-is-simple/)<br>
 [This Is How Docker Works, The Fun Way!](https://www.youtube.com/watch?v=-NzfOhSAZpA)<br>
 [Cgroups, namespaces, and beyond: what are containers](https://www.youtube.com/watch?v=sK5i-N34im8&t=1707s)<br>
@@ -50,12 +50,18 @@ https://www.udemy.com/user/stephane-maarek/
 [Deepdive Containers - Kernel Sources and nsenter](https://www.youtube.com/watch?v=sHp0Q3rvamk)<br>
 [Introduction to Docker and containers-slide](https://us.pycon.org/2016/site_media/media/tutorial_handouts/DockerSlides.pdf)<br>
 [Introduction to Docker and containers-video](https://www.youtube.com/watch?v=ZVaRK10HBjo)<br>
+[Mumshad Courses | udemy](https://www.udemy.com/user/mumshad-mannambeth/)(Ansible and Terraform as well)<br>
+[Just Enough Docker | udemy](https://www.udemy.com/course/just-enough-docker/)<br>
 
 ### Kubernetes
 [Official Docs](https://kubernetes.io/docs/home/)
 Learn to use the official Documents and don't shy away from using the example yaml files as a base for your yaml files.<br>
 [kasten free course & labs](https://learning.kasten.io/)<br>
-
+[Just Enough Kubernetes | udemy](https://www.udemy.com/course/just-enough-kubernetes/)<br>
+[Kubernetes Networks](https://speakerdeck.com/thockin/kubernetes-and-networks-why-is-this-so-dang-hard)<br>
+[How a Kubernetes Pod Gets an IP Address](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/)<br>
+[Kubernetes Operator Pattern](https://iximiuz.com/en/posts/kubernetes-operator-pattern/)<br>
+[]()<br>
 
 ### Configuration Management-Ansible
 [How Ansible Works](https://www.ansible.com/overview/how-ansible-works)<br>
@@ -76,6 +82,7 @@ Learn to use the official Documents and don't shy away from using the example ya
 
 ### Misc
 [Microservices](https://microservices.io/)<br>
+[Intro to Service Mesh](https://youtu.be/x6eoga-64jk)<br>
 
 ### Learn-by-Doing platforms with interactive playgrounds on(Linux/Container/Kubernetes/Clouds)
 
