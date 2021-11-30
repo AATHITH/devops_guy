@@ -25,7 +25,6 @@ https://azure.microsoft.com/en-us/overview/devops-tutorial/<br>
 https://www.udemy.com/user/stephane-maarek/
 
 ### Linux
-
 [Learnshell](https://www.learnshell.org/)<br>
 [Shell Practice challenges](https://cmdchallenge.com/)<br>
 [Grep course](https://egghead.io/lessons/tools-search-the-contents-of-files-using-grep)<br>
@@ -63,8 +62,14 @@ Learn to use the official Documents and don't shy away from using the example ya
 [Kubernetes Operator Pattern](https://iximiuz.com/en/posts/kubernetes-operator-pattern/)<br>
 []()<br>
 
-### Configuration Management-Ansible
+### Configuration Management - Ansible
 [How Ansible Works](https://www.ansible.com/overview/how-ansible-works)<br>
+
+### Infrastructure As Code - Terraform
+[250 Practice Questions | Terraform Associate exam](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a)<br>
+[Terraform Associate Practice Exam 2021 | udemy](https://www.udemy.com/course/terraform-associate-practice-exam/)<br>
+[Terraform Associate 2021 - Zeal Vora | udemy](https://www.udemy.com/course/terraform-beginner-to-advanced/)<br>
+[]()<br>
 
 ### Security
 #### Certification:
@@ -85,7 +90,6 @@ Learn to use the official Documents and don't shy away from using the example ya
 [Intro to Service Mesh](https://youtu.be/x6eoga-64jk)<br>
 
 ### Learn-by-Doing platforms with interactive playgrounds on(Linux/Container/Kubernetes/Clouds)
-
 [acloudguru](acloudguru.com)<br>
 [cloudacademy](cloudacademy.com)<br>
 [kasten free course & labs](https://learning.kasten.io/)<br>
