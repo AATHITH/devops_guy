@@ -62,6 +62,7 @@ Learn to use the official Documents and don't shy away from using the example ya
 [Kubernetes Operator Pattern | Blog](https://iximiuz.com/en/posts/kubernetes-operator-pattern/)<br>
 [Elasticsearch deployment with Operator | Youtube](https://www.youtube.com/watch?v=Wf6E3vkvEFM)<br>
 [Static Volume Provisioning without creating PV | Github repo](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)<br>
+[Kustomise quick intro | youtube | thatdevopsguy](https://youtu.be/5gsHYdiD6v8?list=TLPQMDgxMjIwMjGwUeNc8miL5A)<br>
 
 ### Configuration Management - Ansible
 [How Ansible Works](https://www.ansible.com/overview/how-ansible-works)<br>
