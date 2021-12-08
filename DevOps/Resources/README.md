@@ -59,14 +59,15 @@ Learn to use the official Documents and don't shy away from using the example ya
 [Just Enough Kubernetes | udemy](https://www.udemy.com/course/just-enough-kubernetes/)<br>
 [Kubernetes Networks](https://speakerdeck.com/thockin/kubernetes-and-networks-why-is-this-so-dang-hard)<br>
 [How a Kubernetes Pod Gets an IP Address](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/)<br>
-[Kubernetes Operator Pattern](https://iximiuz.com/en/posts/kubernetes-operator-pattern/)<br>
-[]()<br>
+[Kubernetes Operator Pattern | Blog](https://iximiuz.com/en/posts/kubernetes-operator-pattern/)<br>
+[Elasticsearch deployment with Operator | Youtube](https://www.youtube.com/watch?v=Wf6E3vkvEFM)<br>
+[Static Volume Provisioning without creating PV | Github repo](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)<br>
 
 ### Configuration Management - Ansible
 [How Ansible Works](https://www.ansible.com/overview/how-ansible-works)<br>
 
 ### Infrastructure As Code - Terraform
-[250 Practice Questions | Terraform Associate exam](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a)<br>
+[250 Practice Questions | Terraform Associate exam | Medium blog](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a)<br>
 [Terraform Associate Practice Exam 2021 | udemy](https://www.udemy.com/course/terraform-associate-practice-exam/)<br>
 [Terraform Associate 2021 - Zeal Vora | udemy](https://www.udemy.com/course/terraform-beginner-to-advanced/)<br>
 []()<br>
