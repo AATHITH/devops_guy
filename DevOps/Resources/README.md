@@ -15,14 +15,19 @@ https://azure.microsoft.com/en-us/overview/devops-tutorial/<br>
 [DevOps Prerequisites Course - Getting started with DevOps by Mumshad Mannambeth](https://www.youtube.com/watch?v=Wvf0mBNGjXY)<br>
 [DevOps Course | Intellipaat](https://www.youtube.com/watch?v=YzwD02ImKY4)<br>
 
+
 **channels:**<br>
 [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)<br>
 [LetUsDevOps](https://www.youtube.com/user/wtfcricketmoments)<br>
 [Linux basics](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)<br>
 [That DevOps Guy](https://www.youtube.com/user/Kamakazihoer)<br>
+[Just me and OpenSource | Youtube Channel](https://www.youtube.com/channel/UC6VkhPuCCwR_kG0GExjoozg)<br>
 
-#### Cloud :
-https://www.udemy.com/user/stephane-maarek/
+### Cloud :
+[AWS Certification courses by Stephane-Maarek | Udemy](https://www.udemy.com/user/stephane-maarek/)<br>
+
+### Programming Language
+[Free JavaScript](https://education.launchcode.org/intro-to-professional-web-dev/index-full.html)<br>
 
 ### Linux
 [Learnshell](https://www.learnshell.org/)<br>
@@ -56,13 +61,25 @@ https://www.udemy.com/user/stephane-maarek/
 [Official Docs](https://kubernetes.io/docs/home/)
 Learn to use the official Documents and don't shy away from using the example yaml files as a base for your yaml files.<br>
 [kasten free course & labs](https://learning.kasten.io/)<br>
+
+
+#### Getting Started and Basics
 [Just Enough Kubernetes | udemy](https://www.udemy.com/course/just-enough-kubernetes/)<br>
 [Kubernetes Networks](https://speakerdeck.com/thockin/kubernetes-and-networks-why-is-this-so-dang-hard)<br>
 [How a Kubernetes Pod Gets an IP Address](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/)<br>
 [Kubernetes Operator Pattern | Blog](https://iximiuz.com/en/posts/kubernetes-operator-pattern/)<br>
 [Elasticsearch deployment with Operator | Youtube](https://www.youtube.com/watch?v=Wf6E3vkvEFM)<br>
-[Static Volume Provisioning without creating PV | Github repo](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)<br>
-[Kustomise quick intro | youtube | thatdevopsguy](https://youtu.be/5gsHYdiD6v8?list=TLPQMDgxMjIwMjGwUeNc8miL5A)<br>
+[Static Volume Provisioning without creating a PersistenVolume or a Storage Class | Github repo](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)<br>
+
+#### Kustomize
+[Organizing the YAML mess with Kustomize - Florian Assmus | Youtube Jul 2019](https://www.youtube.com/watch?v=1fCAwFGX38U)<br>
+[Kustomise quick intro | Youtube Jul 2020 | thatdevopsguy](https://youtu.be/5gsHYdiD6v8?list=TLPQMDgxMjIwMjGwUeNc8miL5A)<br>
+
+#### ArgoCD
+[ArgoCD Full Intro | TechworldwithNana | Youtube Oct2021](https://www.youtube.com/watch?v=MeU5_k9ssrs)<br>
+
+[ArgoCD + Kustomize | Medium.com](https://faun.pub/how-to-build-a-gitops-workflow-with-argocd-kustomize-and-github-actions-f919e7443295)<br>
+(another one)[Github Action + Kustomize + ArgoCD | Medium.com ](https://hassen-fliss-13030.medium.com/github-action-kustomize-argocd-94e5abfcf6bd)<br>
 
 ### Configuration Management - Ansible
 [How Ansible Works](https://www.ansible.com/overview/how-ansible-works)<br>
