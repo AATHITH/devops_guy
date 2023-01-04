@@ -107,6 +107,7 @@ Learn to use the official Documents and don't shy away from using the example ya
 ### Misc
 [Microservices](https://microservices.io/)<br>
 [Intro to Service Mesh](https://youtu.be/x6eoga-64jk)<br>
+[Amir and the magical lens](https://www.splunk.com/en_us/resources/amir-and-the-magical-lens.html)<br>
 
 ### Learn-by-Doing platforms with interactive playgrounds on(Linux/Container/Kubernetes/Clouds)
 [acloudguru](acloudguru.com)<br>
