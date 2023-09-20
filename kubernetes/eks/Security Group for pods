@@ -7,4 +7,7 @@ You can understand from these links.
 
 https://marcincuber.medium.com/amazon-eks-and-security-groups-for-pods-759129f82dae
 https://docs.aws.amazon.com/eks/latest/userguide/security-groups-for-pods.html
+https://aws.amazon.com/blogs/containers/introducing-security-groups-for-pods/
+https://aws.github.io/aws-eks-best-practices/networking/sgpp/
+
 https://github.com/aws/amazon-vpc-resource-controller-k8s/blob/release-1.1.4/pkg/aws/vpc/limits.go#L33
