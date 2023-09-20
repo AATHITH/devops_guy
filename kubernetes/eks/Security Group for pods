@@ -1,0 +1,10 @@
+Do you know how to set up a security group for a pod?
+Do you the limitations and network changes happen to your cluster when you setup a pod level security gorup?
+
+
+You can understand from these links.
+
+
+https://marcincuber.medium.com/amazon-eks-and-security-groups-for-pods-759129f82dae
+https://docs.aws.amazon.com/eks/latest/userguide/security-groups-for-pods.html
+https://github.com/aws/amazon-vpc-resource-controller-k8s/blob/release-1.1.4/pkg/aws/vpc/limits.go#L33
