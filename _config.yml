@@ -4,5 +4,6 @@ title: [DevOps Guy]
 description: [Blogging about Devops things and simple copy+paste steps]
 
 remote_theme: pages-themes/modernist@v0.2.0
+markdown: kramdown
 plugins:
 - jekyll-remote-theme
