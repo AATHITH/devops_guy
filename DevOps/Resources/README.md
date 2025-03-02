@@ -69,7 +69,7 @@ Learn to use the official Documents and don't shy away from using the example ya
 [How a Kubernetes Pod Gets an IP Address](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/)<br>
 [Kubernetes Operator Pattern | Blog](https://iximiuz.com/en/posts/kubernetes-operator-pattern/)<br>
 [Elasticsearch deployment with Operator | Youtube](https://www.youtube.com/watch?v=Wf6E3vkvEFM)<br>
-[Static Volume Provisioning without creating a PersistenVolume or a Storage Class | Github repo](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)<br>
+[Static Volume Provisioning without creating a PersistentVolume or a Storage Class | Github repo](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)<br>
 
 #### Kustomize
 [Organizing the YAML mess with Kustomize - Florian Assmus | Youtube Jul 2019](https://www.youtube.com/watch?v=1fCAwFGX38U)<br>
@@ -110,6 +110,7 @@ Learn to use the official Documents and don't shy away from using the example ya
 [Amir and the magical lens](https://www.splunk.com/en_us/resources/amir-and-the-magical-lens.html)<br>
 
 ### Learn-by-Doing platforms with interactive playgrounds on(Linux/Container/Kubernetes/Clouds)
+[sadservers](https://sadservers.com/)<br>
 [acloudguru](acloudguru.com)<br>
 [cloudacademy](cloudacademy.com)<br>
 [kasten free course & labs](https://learning.kasten.io/)<br>
